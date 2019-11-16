@@ -26,7 +26,7 @@ Group Member Names: Shannon Peay, Nicole Lim, and Kelley Shann
 - [x] How Python uses Indentation to control Flow [PythonIndentation.md], Don't Repeat Yourself [CodeRepetition.md], Design Patterns, Class, Object, Static, Property/Attribute, Method (Nicole)
 - [x] Calculator Blueprint (Kelley)
 
-[link](http://https://github.com/jeanshanchik/MiniProject2_Statistics) to Statistics program
+[LINK](http://github.com/jeanshanchik/MiniProject2_Statistics) to Statistics program
 
 
 ### Contents
