@@ -18,26 +18,15 @@ Group Member Names: Nicole Lim and Shannon Peay
 
 > [x] Push, pull, remote Add/Remove/Show, status, master branch (Shannon)
 
-## Statistics Calculator Task List
+## Statistics Calculator - MiniProject2 Task List
 
 Group Member Names: Shannon Peay, Nicole Lim, and Kelley Shann
 
 - [x] Exception, Unit Test, Constructor, Factory, Decorator, Extend Class, CSV Files, Reading Files (Shannon)
 - [x] How Python uses Indentation to control Flow [PythonIndentation.md], Don't Repeat Yourself [CodeRepetition.md], Design Patterns, Class, Object, Static, Property/Attribute, Method (Nicole)
-- [] Calculator Blueprint (Kelley)
+- [x] Calculator Blueprint (Kelley)
 
-
-**Formatting and style**
-- [x] Make sure content is in appropriate sections (Shannon and Nicole)
-- [x] Readme file has group member’s names (Shannon)
-- [x] Readme  file is an index to other pages and links to them (Shannon)
-- [x] Use markdown to style pages nicely with headings (Nicole and Shannon)
-- [x] Create bullet points (Shannon and Nicole)
-- [x] Link multiple pages together (Nicole and Shannon)
-- [x] Add pictures, where necessary (Shannon and Nicole)
-- [x] Create a “Changelog” on Readme files that list all of the changes to the document and who did them (Shannon)
-- [] Add a section of sources with links to tutorials and link to other documents in your work (optional)
-- [x] Submit link to our GitHub respository (Shannon and Nicole)
+[link](http://https://github.com/jeanshanchik/MiniProject2_Statistics) to Statistics program
 
 
 ### Contents
